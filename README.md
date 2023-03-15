@@ -2,13 +2,15 @@
 
 
 * I am Aspiring Data Analyst.
-* I am B.Tech Graduate.
-* I am currently working as a content Analyst.
+* B.Tech Graduate.
+* working as a content Analyst.
+* Love to learn new things.
 
 
 **Technical Skils**
 * Mysql
 * Power Bi
+* Excel
 * Python
 
 
