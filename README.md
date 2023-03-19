@@ -1,6 +1,7 @@
-###
-![what-is-data-analyst](https://user-images.githubusercontent.com/121167491/226165308-8aae3153-396f-4545-9c87-b830bd1c2ec2.jpg)
-###
+## ![1649843080088](https://user-images.githubusercontent.com/121167491/226165897-c0380827-d141-4788-ae86-3dd857c3693b.JPG)
+
+
+
 
 
 **Hey,I am Santanu Bera!👋**
