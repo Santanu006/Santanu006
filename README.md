@@ -14,7 +14,7 @@
 * Data Analyst Intern with KultureHire
 
 # Soft Skills
- communication, Interpersonal skills, teamwork, time management, collaboration, Adaptability, and Flexibility
+ **communication**, **Interpersonal skills**, **teamwork**, **time management**, **collaboration**, **Adaptability** and **Flexibility**
 
 
 <h3 align="left">📚Been exposed to these technologies: </h3>
