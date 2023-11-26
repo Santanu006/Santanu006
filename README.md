@@ -1,5 +1,5 @@
-![165881079-7dbd5acb-5741-4a93-bf17-803ceeb56af8](https://user-images.githubusercontent.com/121167491/226166237-452bac89-16b2-453b-b148-9fd181b587ff.png) 
-# *Hey Welcome to my GitHub profile!, I am Santanu Bera!👋*
+<div style="width:100%;height:0;padding-bottom:36%;position:relative;"><iframe src="https://giphy.com/embed/nuOmTkwyMOJKGaTt8j" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nuOmTkwyMOJKGaTt8j">via GIPHY</a></p>
+# *Hi There , I am Santanu Bera!👋*
 
 
 
