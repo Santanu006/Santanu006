@@ -5,10 +5,16 @@
 
 
 
-* Aspiring Data Analyst.
-* B.Tech Graduate.
-* working as a content Analyst.
-* Love to learn new things.
+# Work Experience
+4.8 years of experience in Social Media Platfrom & Sales domain worked in TCS and WEBHELP
+
+# Internships
+Certified Data Science Professional from OdinSchool
+The Spark Foundation Virtual Internship 
+Data Analyst Intern with KultureHire
+
+# Soft Skills
+communication, Interpersonal skills, teamwork, time management, collaboration, Adaptability, and Flexibility
 
 
 <h3 align="left">📚Been exposed to these technologies: </h3>
