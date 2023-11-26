@@ -1,9 +1,6 @@
 ![165881079-7dbd5acb-5741-4a93-bf17-803ceeb56af8](https://user-images.githubusercontent.com/121167491/226166237-452bac89-16b2-453b-b148-9fd181b587ff.png) 
-# *Hey,I am Santanu Bera!👋*
+# *Hey Welcome to my GitHub profile!,I am Santanu Bera!👋*
 
-<p  align="center"><img src = "Github Banner.gif"></p>
-
-# Welcome to my GitHub profile!, I am Surya! 👋
 
 
 
