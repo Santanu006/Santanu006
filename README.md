@@ -1,4 +1,5 @@
-<iframe src="https://giphy.com/embed/nuOmTkwyMOJKGaTt8j" width="480" height="174" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nuOmTkwyMOJKGaTt8j">via GIPHY</a></p>
+![Uploading 241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif…]()
+
 
 # *Hi There , I am Santanu Bera!👋*
 
