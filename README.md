@@ -1,8 +1,3 @@
-![giphy (1)](https://github.com/Santanu006/Santanu006/assets/121167491/e20a3185-68a6-41b4-aaff-959374bd0f2f)
-
-
-
-
 # *Hi There , I am Santanu Bera!👋*
 
 
@@ -12,7 +7,7 @@
 # Work Experience
 4.8 years of experience in Social Media Platfrom & Sales domain worked in TCS and WEBHELP
 
-# Internships
+*# Internships
 * Certified Data Science Professional from OdinSchool
 * The Spark Foundation Virtual Internship 
 * Data Analyst Intern with KultureHire
